@@ -1,0 +1,11 @@
+{
+  "name": "kprverse-carousel-animation",
+  "version": "1.0.0",
+  "description": "a carousel animation inspired by the one present on \"kprverse.com\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Mahajan",
+  "license": "MIT"
+}
